@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Raspadinha_sorte</string>
+    <string name="edit_usuario">Usuário</string>
+    <string name="edit_senha">Senha</string>
+    <string name="botao_entrar">Entrar</string>
+    <string name="text_ou">ou</string>
+    <string name="sair">Sair</string>
+    <string name="botao_google">Google</string>
+    <string name="voltar">Voltar</string>
+    <string name="cadastrar">Cadastrar</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454178112414",
+    "project_id": "raspadinha-sorte",
+    "storage_bucket": "raspadinha-sorte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454178112414:android:d0559cc54be2627027cc8f",
+        "android_client_info": {
+          "package_name": "com.example.raspadinha_sorte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454178112414-dn4gqesgs62b8l9he4e2q7h39aomn5ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5SvXEa8conVpi7wDUbA2TRIdSqGbeOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454178112414-dn4gqesgs62b8l9he4e2q7h39aomn5ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
